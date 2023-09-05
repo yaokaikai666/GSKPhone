@@ -9,7 +9,7 @@
 * 娛樂應用程式：賽車，遊戲（貪吃蛇，21點，2048，俄羅斯方塊）。
 * GKSPhone擁有iOS控制中心：開關天氣預報，AirDrop（分享電話號碼），亮度和音量。Facetime（具備webrtc），手電筒，飛行模式和流媒體模式。
 * 配件：由Patoche定制製作的3款不同手機探頭（iPhone 12 Pro黑色、金色和粉色）。
-*  iscord WebHook 讓您放心
+*  Discord WebHook 讓您放心
 * 支援多種語音系統: PmaVoice, MumbleVoip, SaltyChat （2.6版本穩定運行） and TokoVoip
 
 
