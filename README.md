@@ -22,7 +22,7 @@ ESX 1.1.0版本
 # 如何安裝
 1. 將壓縮檔案中的 [GKSPHONE] 解壓縮到 resources資料夾或是其他資料夾
 2. 將資料夾的SQL檔案都導入到essentialmode數據庫中
-3. 在server.cfg 或是 resource.cfg 打上 ```start [GKSPHONE] 或是 ensure [GKSPHONE] ```
+3. 在server.cfg 或是 resource.cfg 打上 ```start [GKSPHONE] ``` 或是 ``` ensure [GKSPHONE] ```
 5. 進入遊戲盡情的享受這支手機吧!
 
 # 原作者示範影片
